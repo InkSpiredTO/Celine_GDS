@@ -14,7 +14,7 @@ It uses AND, OR, XOR.
 
 ## How to test
 
-Explain how to use your project
+Turn on the switches. Yay.
 
 ## External hardware
 
